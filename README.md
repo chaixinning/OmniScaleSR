@@ -1,11 +1,21 @@
 ## OmniScaleSR: Scale-Controlled Diffusion for Faithful and Realistic Arbitrary-Scale Image Super-Resolution
+This repository will contain the official implementation of:
 
-### 📌 TODO
-- [x] ~~Repo release~~
-- [x] ~~Test codes release~~
-- [x] Update paper link
-- [x] Pretrained models
-- [x] Training Code release
+> **OmniScaleSR: Scale-Controlled Diffusion for Faithful and Realistic Arbitrary-Scale Image Super-Resolution**  
+> Paper under review.
+
+---
+
+### 🚧 Repository Status
+
+We are in the process of preparing a clean and well-documented release.  
+The following resources will be made publicly available **upon acceptance**:
+
+- ⚡ **Inference code** with pre-trained weights
+- 🌈 **Training pipeline** with data processing and configuration files
+- 📖 **Documentation and usage guide**
+
+---
 
 ## ⚙️ Dependencies and Installation
 ```
