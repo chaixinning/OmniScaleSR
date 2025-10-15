@@ -13,8 +13,8 @@
 git clone https://github.com/chaixinning/OmniScaleSR.git
 cd OmniScaleSR
 
-# create an environment with python >= 3.8
-conda create -n omniscalesr python=3.8
+# create an environment with python >= 3.10
+conda create -n omniscalesr python=3.10
 conda activate omniscalesr
 pip install -r requirements.txt
 ```
