@@ -1,5 +1,12 @@
 ## OmniScaleSR: Scale-Controlled Diffusion for Faithful and Realistic Arbitrary-Scale Image Super-Resolution
 
+### 📌 TODO
+- [x] ~~Repo release~~
+- [x] ~~Test codes release~~
+- [x] Update paper link
+- [x] Pretrained models
+- [x] Training Code release
+
 ## ⚙️ Dependencies and Installation
 ```
 ## git clone this repository
@@ -12,7 +19,7 @@ conda activate omniscalesr
 pip install -r requirements.txt
 ```
 
-## 🚀 Quick Inference
+## ⚡ Quick Inference
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base).
 - Download the OmniScaleSR models [TBC]
