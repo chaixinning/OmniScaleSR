@@ -6,7 +6,7 @@ the official implementation of:
 
 ---
 
-### 🚧 Repository Status
+### Repository Status
 
 Under Review... 
 
