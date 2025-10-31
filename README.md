@@ -1,7 +1,7 @@
-## OmniScaleSR: Scale-Controlled Diffusion for Faithful and Realistic Arbitrary-Scale Image Super-Resolution
+## OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution
 the official implementation of:
 
-> **OmniScaleSR: Scale-Controlled Diffusion for Faithful and Realistic Arbitrary-Scale Image Super-Resolution**  
+> **OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution**  
 > Paper under review.
 
 ---
