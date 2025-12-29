@@ -74,6 +74,7 @@ python utils_data/BLIP2_generation_ASRealSR.py --start_gpu 0 --all_gpu 1
 ```
 
 #### Step3: Training for OmniScaleSR
+```
 CUDA_VISIBLE_DEVICES="1" accelerate launch --num_processes 1 \
 --main_process_port 10000 train_omniscalesr.py \
 --pretrained_model_name_or_path="xxx/stable-diffusion-2-base/" \
@@ -90,6 +91,7 @@ CUDA_VISIBLE_DEVICES="1" accelerate launch --num_processes 1 \
 --data_root TRAIN_DATA_ROOT \
 --output_dir='./checkpoints' \
 --max_train_steps 160000
+```
 
 ## Acknowledgments
 This project is based on [diffusers](https://github.com/huggingface/diffusers) and [BasicSR](https://github.com/XPixelGroup/BasicSR). Some codes are brought from [SeeSR](https://github.com/cswry/SeeSR) and [SeemoRe](https://github.com/eduardzamfir/seemoredetails). Thanks for their awesome works. 
