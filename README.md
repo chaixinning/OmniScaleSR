@@ -97,6 +97,10 @@ This project is based on [diffusers](https://github.com/huggingface/diffusers) a
 ## Contact
 If you have any questions, please feel free to contact: `chaixinning@sjtu.edu.cn`
 
+## License
+This project is released under the MIT License.
+
+
 ## 🎓Citations
 If our code helps your research or work, please consider citing our paper.
 The following are BibTeX references:
