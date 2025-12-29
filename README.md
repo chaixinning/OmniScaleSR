@@ -69,7 +69,7 @@ Arbitrary-resolution degradation is performed on-the-fly in the dataloader durin
 
 (2) Generate image captions:
 ```
-# Step2-2 generate image captions using BLIP-2
+# generate image captions using BLIP-2
 python utils_data/BLIP2_generation_ASRealSR.py --start_gpu 0 --all_gpu 1
 ```
 
