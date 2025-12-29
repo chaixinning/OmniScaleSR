@@ -1,4 +1,4 @@
-## OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution (TCSVT2025) 
+## (TCSVT2025) OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution 
 <a href='https://arxiv.org/pdf/2512.04699'><img src='https://img.shields.io/badge/arXiv-2512.04699-b31b1b.svg'></a> &nbsp;&nbsp;
 
 ---
