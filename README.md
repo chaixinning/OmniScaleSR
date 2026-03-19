@@ -21,7 +21,7 @@ pip install -r requirements.txt
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base) or [GoogleDrive](https://drive.google.com/drive/folders/1LVSwWbjJdn5Wxy79AwV5LdPX2S2Hotx1).
 - Download the OmniScaleSR models from [GoogleDrive](https://drive.google.com/drive/folders/17LoKxcOCLuUYLggeZoo0Frv3YK9XQFfr).
-- Download the pre-x4 model from [GoogleDrive](https://drive.google.com/drive/folders/1qaGi2Oi1GsgFb2T5BoBU5GCWsHicrQLK) and then rename it to 'seemoredetail_4x.pth'
+- Download the pre-x4 model from [GoogleDrive](https://drive.google.com/drive/folders/1hSw6ayNxUkjVIzn-YWQSKgjs2oMIkHHR) and then rename it to 'seemoredetail_4x.pth'
 - Download the RAM model from [HuggingFace](https://huggingface.co/spaces/xinyu1205/recognize-anything/tree/main)
 - Download the DAPE model from [GoogleDrive](https://drive.google.com/drive/folders/12HXrRGEXUAnmHRaf0bIn-S8XSK4Ku0JO?usp=drive_link)
 
